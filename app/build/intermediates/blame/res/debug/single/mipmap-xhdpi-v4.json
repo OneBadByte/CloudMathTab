@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/blackdartq/CloudMathTabApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/blackdartq/CloudMathTabApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/blackdartq/CloudMathTabApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cloud.png",
+        "source": "/home/blackdartq/CloudMathTabApp/app/src/main/res/mipmap-xhdpi/cloud.png"
+    }
+]
